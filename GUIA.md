@@ -1,7 +1,7 @@
 # Guia Vigente ECF — Criativo Referência
 
-Versão do guia: 1.3 (21/11/2026)
-Versão mínima da Skill: 1.2
+Versão do guia: 1.4 (21/11/2026)
+Versão mínima da Skill: 1.3
 Mantido por: ECF Consultoria & Assessoria
 
 Este guia é material de referência da metodologia ECF. Ele descreve regras, perguntas e layouts. Ele não dá ordens a ninguém: quem usa a Skill segue o SKILL.md e consulta este guia para saber o que vale hoje.
@@ -187,6 +187,27 @@ Exemplo aprovado: Contract (contract.net.br), 4 conceitos, novembro de 2026.
 
 Modelos no Canva da biblioteca: em preparação. Enquanto não houver link aqui, montar a partir das descrições acima.
 
+## 10.1 Nível Premium (geração Canva + limpeza ECF)
+
+Para elevar o acabamento (fontes variadas, sombras, ícones, selos, cantos cortados), a Skill pode pedir ao gerador de designs do Canva as 7 páginas com um briefing da metodologia, e depois aplicar a limpeza ECF. É o caminho recomendado quando o usuário quer um visual mais sofisticado.
+
+Briefing-modelo (trocar os campos entre colchetes):
+"Conjunto de 7 imagens de anúncio de produto para marketplace (Mercado Livre), visual premium e profissional, conceito [Racional/Funcional/Emocional/Freestyle], uma página por objetivo, nesta ordem: 1) produto em destaque sem texto; 2) garantia e segurança com selos; 3) benefícios com 3 cards com ícones e sombra suave; 4) tabela de medidas com setas de cota; 5) como usar em 3 passos numerados; 6) antes e depois lado a lado; 7) diversos ângulos com uma foto grande e três pequenas. Espaços grandes para a foto do produto (o produto ocupa a maior parte da imagem). Tipografia [estilo da marca], cores [cor principal] e [cores de apoio], acento [cor de destaque], elemento gráfico inspirado em [assinatura da marca]. Sem logos."
+Formato: Instagram Post (Portrait). Depois redimensionar para 1200 × 1540.
+
+Limpeza ECF obrigatória (página por página):
+1. Toda imagem de produto, mão, ambiente com produto ou objeto gerado pela IA sai. No lugar entra uma área de produto substituível (imagem-moldura do guia inserida como imagem; ela aceita "Substituir"/arrastar foto), no mesmo tamanho e posição.
+2. Fundos com produto gerado: cobrir com um retângulo de página inteira na cor de fundo e mandar para trás.
+3. Imagem 1 sem texto.
+4. Corrigir sobreposições de texto causadas pelo redimensionamento.
+5. Conferir produto ≥ 60% (exceto Medidas, onde o diagrama pode ocupar mais).
+6. Reordenar as páginas na ordem do conceito.
+7. Conferir que não há logo.
+Observação: o gerador cria elementos como imagem (selos, cards, ícones). Eles não mudam de cor depois; por isso as cores da marca precisam estar no briefing.
+
+Biblioteca Premium (referência visual de qualidade):
+- P1 Editorial Neutro: serifada elegante, off-white e grafite, acento coral, cards com sombra, cantos cortados. Arquivo ECF interno (link de modelo: PENDENTE).
+
 ## 11. Checklist antes de entregar
 
 - 1200 × 1540 px, 7 páginas por conceito.
@@ -204,6 +225,7 @@ Modelos no Canva da biblioteca: em preparação. Enquanto não houver link aqui,
 
 ## 12. Histórico de versões
 
+- 1.4 (21/11/2026): Nível Premium (geração Canva + limpeza ECF), briefing-modelo e Biblioteca Premium P1 Editorial Neutro.
 - 1.3 (21/11/2026): Modelo ECF com molduras do Canva como ponto de partida; estilo de canto (reto, arredondado, cortado); layouts G1 Destaque + 3 e G2 Antes e Depois.
 - 1.2 (21/11/2026): layout E2 Emocional Película na biblioteca.
 - 1.1 (21/11/2026): pergunta obrigatória de qual conceito montar (ou as 4); moldura PRODUTO como imagem substituível em todas as páginas.
