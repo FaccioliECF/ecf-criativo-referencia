@@ -1,6 +1,6 @@
 # Guia Vigente ECF — Criativo Referência
 
-Versão do guia: 1.6 (21/11/2026)
+Versão do guia: 1.7 (21/11/2026)
 Versão mínima da Skill: 1.5
 Mantido por: ECF Consultoria & Assessoria
 
@@ -234,9 +234,10 @@ Limpeza ECF obrigatória (página por página):
 Observação: o gerador cria elementos como imagem (selos, cards, ícones). Eles não mudam de cor depois; por isso as cores da marca precisam estar no briefing.
 
 Biblioteca Premium (conjuntos prontos de 7 imagens, 1200 × 1540, com molduras de produto substituíveis):
-- P1 Editorial Neutro: serifada elegante, off-white e grafite, acento coral, cards com sombra, cantos cortados. ID Canva: DAHbkarxjjU.
-- P2 Racional Técnico: azul petróleo, visual de prancheta técnica, cotas, cantoneiras e cards numerados. ID Canva: DAHbkYQSjC4.
-- P3 Freestyle Impacto: vermelho e preto, condensada itálica enorme, faixas diagonais, setas e chevrons. ID Canva: DAHbka4aBTc.
+- P1 Editorial Neutro: serifada elegante, off-white e grafite, acento coral, cards com sombra, cantos cortados. ID Canva: DAHbkhMcr9s (refeito sobre o Modelo ECF, com molduras reais).
+- P2 Racional Técnico: azul petróleo, visual de prancheta técnica, cotas, cantoneiras e cards numerados. ID Canva: DAHbkhPWHIY (refeito sobre o Modelo ECF, com molduras reais).
+- P3 Freestyle Impacto: vermelho e preto, condensada itálica enorme, faixas diagonais, setas e chevrons. ID Canva: DAHbkm71VBg (refeito sobre o Modelo ECF, com molduras reais).
+- Nos três conjuntos os textos estão na fonte padrão do Canva (a API não troca fonte). Ao usar, aplicar a fonte do estilo descrito acima (serifada no P1, sem serifa técnica no P2, condensada itálica no P3).
 Ordem das páginas nos três: 1 Produto, 2 Garantia, 3 Benefícios, 4 Medidas, 5 Como usar, 6 Antes e depois, 7 Ângulos.
 Molduras: todo conjunto da Biblioteca Premium precisa ter molduras do Canva reais em cada espaço de produto (regra 9). Se a página abrir com imagem no lugar da moldura, o conjunto está em atualização: monte aquela página sobre o Modelo ECF.
 Acesso: hoje os IDs abrem só na conta ECF. Para alunos, a ECF vai publicar links de modelo (PENDENTE); sem acesso, seguir pelo gerador (briefing-modelo acima).
@@ -270,6 +271,7 @@ Nos conjuntos, selos, faixas e ícones são imagem (não mudam de cor); textos e
 
 ## 12. Histórico de versões
 
+- 1.7 (21/11/2026): P1, P2 e P3 refeitos sobre o Modelo ECF com molduras reais em todos os espaços de produto; IDs novos; antigos movidos para a pasta ANTIGOS.
 - 1.6 (21/11/2026): regra da moldura para toda a biblioteca (todo espaço de produto é moldura do Canva real) e acabamento de moldura (borda, cantos, sombra).
 
 - 1.5 (21/11/2026): Modo Automático (mande o site, eu faço tudo), regras de decisão por nicho, Biblioteca Premium P2 e P3, Biblioteca de Recursos (elementos, fontes, paletas, molduras, fundos e arquivo mestre).
