@@ -1,6 +1,6 @@
 # Guia Vigente ECF — Criativo Referência
 
-Versão do guia: 1.1 (21/11/2026)
+Versão do guia: 1.2 (21/11/2026)
 Versão mínima da Skill: 1.1
 Mantido por: ECF Consultoria & Assessoria
 
@@ -152,6 +152,10 @@ Fundo grafite (#161616 a #1E1E1E). Área do produto clara para destacar a foto. 
 ### E1 — Emocional Cena
 Fundo de cena com degradê quente suave (bege → off-white, ou tons da marca bem dessaturados). Área do produto ocupando 70% a 80%. Uma frase curta em branco sobre uma faixa escura translúcida (20% a 30%) na base. Nenhum card.
 
+### E2 — Emocional Película (favorito ECF)
+A moldura do produto ocupa a página inteira (1200 × 1540), atrás de tudo. Por cima dela, uma **película** que escurece a parte de baixo aos poucos: 24 retângulos grafite (#141414) de largura total, cada um com opacidade 3,6%, empilhados a cada 30 px a partir de y = 760 até o fim da página (o primeiro com 780 px de altura, o último com 90 px). A sobreposição cria um degradê suave, sem corte, e o produto continua visível por trás. No topo, a assinatura da marca em branco com cerca de 20% de opacidade, grande e cortada pela borda. Na parte escura: barrinha na cor da marca (80 × 8), título branco grande (cerca de 72 px, negrito) e até 3 itens curtos em branco com marcador da assinatura na cor da marca. Funciona também em Benefícios e Como Usar (passos em 3 colunas).
+Exemplo aprovado: Contract, páginas "Emocional - [ 3 ] Benefícios" e "Emocional - [ 4 ] Como Usar".
+
 ### X1 — Freestyle Assinatura
 Área do produto ocupa quase tudo (1100 × 1400). 1 a 3 palavras em caixas de texto sobrepostas ao produto. A borda de cada caixa carrega a assinatura da marca (no exemplo ECF/Contract, a borda direita se desfaz em losangos). Cores das caixas variam entre cor da marca, grafite e branco com borda na cor da marca; o elemento da assinatura fica sempre na cor da marca. Marca d'água muito transparente (cerca de 12%) opcional.
 
@@ -176,5 +180,6 @@ Modelos no Canva da biblioteca: em preparação. Enquanto não houver link aqui,
 
 ## 12. Histórico de versões
 
+- 1.2 (21/11/2026): layout E2 Emocional Película na biblioteca.
 - 1.1 (21/11/2026): pergunta obrigatória de qual conceito montar (ou as 4); moldura PRODUTO como imagem substituível em todas as páginas.
 - 1.0 (21/11/2026): primeira versão. Dois caminhos (Rápido e Guiado), banco de perguntas, assinatura da marca, biblioteca com 5 layouts, testes de identidade e exclusividade.
