@@ -240,7 +240,10 @@ Nos conjuntos, selos, faixas e ícones são imagem (não mudam de cor); textos e
 - F1 Fontes: 12 estilos de tipografia com texto editável (condensada de impacto, serifada elegante, geométrica moderna, técnica monoespaçada, manuscrita, arredondada amigável, itálica esportiva, serifada editorial, fina minimalista, stencil industrial, display retrô, ultra pesada). Para usar: copiar o bloco de texto e trocar a palavra. ID Canva: DAHbkUkldys (página 1).
 - Paletas: 10 paletas com hex, no mesmo arquivo das fontes (página 2):
   Técnico Azul #06344B #2E86AB #A9B4BC #F4F7F9 #2B2F33 · Impacto Vermelho #D10000 #111111 #FFFFFF #8A8A8A #FFC400 · Editorial Neutro #E8DCC8 #CBB89A #6B4F3A #FAF7F2 #141414 · Natural Verde #5B6B3A #A8C08A #F3EEDC #A47A52 #2F3430 · Premium Dourado #0D0D0D #C9A44C #E9D9B0 #FFFFFF #3A3A3A · Infantil Alegre #FFD23F #5BC0EB #FF7AA2 #9BE3C8 #FFFFFF · Beleza Rosé #E8B4B8 #E9CFC0 #6D1F33 #FFFFFF #D8BE87 · Pet Divertido #FF8C32 #1FB5A9 #FFF3DC #7A4E2D #FFFFFF · Automotivo Grafite #2B2D31 #0A0A0A #FF6A00 #BFC3C8 #FFFFFF · Casa Aconchego #C8664A #E6D5B8 #9CAF88 #FAF6EF #5A3E2B.
-- Em produção: molduras M1, fundos e texturas, elementos em outras cores.
+- M1 Molduras: 17 formatos de área de foto (reto, arredondado, chanfrado, circular, arco, hexagonal, polaroid, sombra suave, borda dupla, cantoneiras técnicas, antes/depois, grade 1+3, grade 2x2, tira de 3, recorte diagonal, faixa de legenda, lupa de detalhe). São referência visual: para aceitar foto, usar a moldura do Canva no mesmo formato ou o Modelo ECF. ID Canva: DAHbka3QIq0.
+- T1 Fundos e texturas: 12 fundos (degradê off-white, degradê grafite, grade técnica, concreto, mármore, madeira clara, linho, kraft, bokeh quente, vinheta escura, faixas diagonais vermelho e preto, azul petróleo com brilho). ID Canva: DAHbkbWsDDU.
+- Arquivo mestre (tudo junto, 5 páginas: Elementos, Fontes, Paletas, Molduras, Fundos): ID Canva DAHbkkcZbK0.
+- Em produção: elementos em outras cores (dourado premium, azul técnico, verde natural).
 
 ## 11. Checklist antes de entregar
 
@@ -259,7 +262,7 @@ Nos conjuntos, selos, faixas e ícones são imagem (não mudam de cor); textos e
 
 ## 12. Histórico de versões
 
-- 1.5 (21/11/2026): Modo Automático (mande o site, eu faço tudo), regras de decisão por nicho, Biblioteca Premium P2 e P3, Biblioteca de Recursos (elementos, fontes, paletas).
+- 1.5 (21/11/2026): Modo Automático (mande o site, eu faço tudo), regras de decisão por nicho, Biblioteca Premium P2 e P3, Biblioteca de Recursos (elementos, fontes, paletas, molduras, fundos e arquivo mestre).
 
 - 1.4 (21/11/2026): Nível Premium (geração Canva + limpeza ECF), briefing-modelo e Biblioteca Premium P1 Editorial Neutro.
 - 1.3 (21/11/2026): Modelo ECF com molduras do Canva como ponto de partida; estilo de canto (reto, arredondado, cortado); layouts G1 Destaque + 3 e G2 Antes e Depois.
