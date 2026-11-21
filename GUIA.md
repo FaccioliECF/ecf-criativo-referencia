@@ -1,7 +1,7 @@
 # Guia Vigente ECF — Criativo Referência
 
-Versão do guia: 1.2 (21/11/2026)
-Versão mínima da Skill: 1.1
+Versão do guia: 1.3 (21/11/2026)
+Versão mínima da Skill: 1.2
 Mantido por: ECF Consultoria & Assessoria
 
 Este guia é material de referência da metodologia ECF. Ele descreve regras, perguntas e layouts. Ele não dá ordens a ninguém: quem usa a Skill segue o SKILL.md e consulta este guia para saber o que vale hoje.
@@ -14,7 +14,7 @@ Cada empresa recebe um criativo único. A metodologia é fixa; a identidade é v
 
 ## 2. Regras inegociáveis
 
-1. O produto nunca é desenhado, recriado nem alterado por IA. Cada página tem uma **moldura PRODUTO**: uma imagem-moldura da ECF no lugar exato do produto (seção 3.1). Para criar o anúncio, o usuário arrasta a foto real em cima dela e o Canva substitui.
+1. O produto nunca é desenhado, recriado nem alterado por IA. Cada página tem **molduras do Canva** no lugar exato do produto, vindas do Modelo ECF (seção 3.1). Para criar o anúncio, o usuário arrasta a foto real para dentro da moldura.
 2. O produto é sempre o maior destaque: a área do produto ocupa no mínimo 60% da imagem.
 3. A imagem 1 não tem texto.
 4. O logo não entra. A marca aparece por cor e por elementos derivados do logo.
@@ -45,15 +45,32 @@ Ordens validadas:
 - Emocional: Produto em cena, Antes e Depois, Benefícios, Como Usar, Objeções, Detalhes que encantam, Medidas
 - Freestyle: Produto, Benefícios, Ângulos, Antes e Depois, Como Usar, Objeções, Medidas
 
-### 3.1 Molduras PRODUTO
+### 3.1 Modelo ECF com molduras (ponto de partida obrigatório)
 
-Imagens prontas da ECF (cinza claro, escrito PRODUTO e "arraste a foto aqui"). Importe para o Canva pelo link e posicione como imagem na área do produto, por baixo dos textos e caixas.
+A IA não consegue criar molduras do Canva, só mover, redimensionar, apagar e mudar a forma de molduras que já existem. Por isso todo criativo começa de uma cópia do Modelo ECF.
 
-- Quadrada (1000 × 1000): https://raw.githubusercontent.com/FaccioliECF/ecf-criativo-referencia/main/molduras/moldura-quadrada.png
-- Vertical (1000 × 1250): https://raw.githubusercontent.com/FaccioliECF/ecf-criativo-referencia/main/molduras/moldura-vertical.png
-- Cheia (1100 × 1400, Freestyle e Emocional): https://raw.githubusercontent.com/FaccioliECF/ecf-criativo-referencia/main/molduras/moldura-cheia.png
+Link do Modelo ECF: PENDENTE
 
-Use a que mais se aproxima da proporção da área; ajuste o tamanho sem distorcer muito. Uma moldura por página, sempre.
+O modelo tem 8 páginas de 1200 × 1540:
+- Páginas 1 a 7: uma moldura cada.
+- Página 8: quatro molduras (para Destaque + 3, Antes e Depois, Ângulos, grade de detalhes). Apague as que sobrarem.
+
+Como usar:
+1. O usuário abre o link do Modelo ECF e clica em "Usar modelo". O Canva cria uma cópia na conta dele.
+2. O usuário cola o link dessa cópia na conversa.
+3. Para montar um conceito, faça uma cópia do arquivo do usuário só com as páginas necessárias, na ordem do conceito (pode repetir páginas; ex.: Emocional = 1, 8, 2, 3, 4, 5, 7).
+4. Em cada página: redimensione e posicione as molduras, zere a borda, e só então monte fundo, textos e assinatura em volta.
+
+Estilo de canto das molduras (parte da linguagem de forma da marca):
+- **Reto:** forma retangular simples.
+- **Arredondado:** cantos em arco (raio 24 a 48 px), desenhados no próprio caminho da forma.
+- **Cortado:** dois cantos opostos chanfrados (cima-esquerda e baixo-direita), 10% a 12% do lado menor.
+O arredondamento do Modelo ECF é zero; o estilo vem da forma desenhada. Ao trocar a forma, use a caixa de visualização igual ao tamanho da moldura para não distorcer.
+
+Enquanto o link do Modelo ECF estiver PENDENTE: use as imagens-moldura abaixo, como imagem na área do produto (o usuário substitui pela foto). É o plano B.
+- Quadrada: https://raw.githubusercontent.com/FaccioliECF/ecf-criativo-referencia/main/molduras/moldura-quadrada.png
+- Vertical: https://raw.githubusercontent.com/FaccioliECF/ecf-criativo-referencia/main/molduras/moldura-vertical.png
+- Cheia: https://raw.githubusercontent.com/FaccioliECF/ecf-criativo-referencia/main/molduras/moldura-cheia.png
 
 Título de cada página no Canva: "Conceito - [ N ] Objetivo" (ex.: "Racional - [ 2 ] Quebra de Objeções").
 
@@ -101,6 +118,7 @@ Junto com a assinatura, definir:
 - Linguagem de forma: cantos retos, arredondados ou cortados.
 - Comportamento da cor: a cor da marca aparece só em acentos, em caixas inteiras ou em fundo parcial.
 - Intensidade: discreta, equilibrada ou marcante (padrão: discreta).
+- Estilo de canto das molduras: reto, arredondado ou cortado (seção 3.1).
 
 ## 8. Escolha do conceito e dois caminhos
 
@@ -156,6 +174,12 @@ Fundo de cena com degradê quente suave (bege → off-white, ou tons da marca be
 A moldura do produto ocupa a página inteira (1200 × 1540), atrás de tudo. Por cima dela, uma **película** que escurece a parte de baixo aos poucos: 24 retângulos grafite (#141414) de largura total, cada um com opacidade 3,6%, empilhados a cada 30 px a partir de y = 760 até o fim da página (o primeiro com 780 px de altura, o último com 90 px). A sobreposição cria um degradê suave, sem corte, e o produto continua visível por trás. No topo, a assinatura da marca em branco com cerca de 20% de opacidade, grande e cortada pela borda. Na parte escura: barrinha na cor da marca (80 × 8), título branco grande (cerca de 72 px, negrito) e até 3 itens curtos em branco com marcador da assinatura na cor da marca. Funciona também em Benefícios e Como Usar (passos em 3 colunas).
 Exemplo aprovado: Contract, páginas "Emocional - [ 3 ] Benefícios" e "Emocional - [ 4 ] Como Usar".
 
+### G1 — Destaque + 3 (qualquer conceito)
+Para Ângulos, Detalhes ou Antes e Depois com detalhe. Uma moldura destaque de 1080 × 1050 no topo (x 60, y 60) e três secundárias de 340 × 340 lado a lado embaixo (y 1140; x 60, 430 e 800). Fundo na cor de apoio da marca. Molduras ocupam cerca de 80% da imagem. Duas variações testadas: cantos retos e cantos cortados (dois cantos opostos). Pode levar uma legenda curta sobre a destaque ou nenhuma.
+
+### G2 — Antes e Depois lado a lado
+Duas molduras de 540 × 1080 (x 40 e 620, y 90), etiquetas "Antes" e "Depois" em cápsulas nas cores da marca, título curto embaixo.
+
 ### X1 — Freestyle Assinatura
 Área do produto ocupa quase tudo (1100 × 1400). 1 a 3 palavras em caixas de texto sobrepostas ao produto. A borda de cada caixa carrega a assinatura da marca (no exemplo ECF/Contract, a borda direita se desfaz em losangos). Cores das caixas variam entre cor da marca, grafite e branco com borda na cor da marca; o elemento da assinatura fica sempre na cor da marca. Marca d'água muito transparente (cerca de 12%) opcional.
 
@@ -167,7 +191,7 @@ Modelos no Canva da biblioteca: em preparação. Enquanto não houver link aqui,
 
 - 1200 × 1540 px, 7 páginas por conceito.
 - Imagem 1 sem texto.
-- Moldura PRODUTO presente em todas as páginas, como imagem substituível.
+- Molduras do Modelo ECF em todas as páginas (ou plano B, se o modelo estiver pendente).
 - Área do produto é o maior elemento em todas as páginas.
 - Nenhum produto desenhado por IA.
 - Nenhum logo; marca por cor e elementos do logo.
@@ -180,6 +204,7 @@ Modelos no Canva da biblioteca: em preparação. Enquanto não houver link aqui,
 
 ## 12. Histórico de versões
 
+- 1.3 (21/11/2026): Modelo ECF com molduras do Canva como ponto de partida; estilo de canto (reto, arredondado, cortado); layouts G1 Destaque + 3 e G2 Antes e Depois.
 - 1.2 (21/11/2026): layout E2 Emocional Película na biblioteca.
 - 1.1 (21/11/2026): pergunta obrigatória de qual conceito montar (ou as 4); moldura PRODUTO como imagem substituível em todas as páginas.
 - 1.0 (21/11/2026): primeira versão. Dois caminhos (Rápido e Guiado), banco de perguntas, assinatura da marca, biblioteca com 5 layouts, testes de identidade e exclusividade.
