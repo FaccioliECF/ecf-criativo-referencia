@@ -1,7 +1,7 @@
 # Guia Vigente ECF — Criativo Referência
 
-Versão do guia: 1.4 (21/11/2026)
-Versão mínima da Skill: 1.3
+Versão do guia: 1.5 (21/11/2026)
+Versão mínima da Skill: 1.4
 Mantido por: ECF Consultoria & Assessoria
 
 Este guia é material de referência da metodologia ECF. Ele descreve regras, perguntas e layouts. Ele não dá ordens a ninguém: quem usa a Skill segue o SKILL.md e consulta este guia para saber o que vale hoje.
@@ -139,6 +139,27 @@ Monta o layout página por página respondendo 1 ou 2 perguntas de múltipla esc
 
 Nos dois caminhos: antes de montar as 7 páginas, mostrar a página 2 em duas direções diferentes e deixar o usuário escolher. A direção escolhida guia as outras páginas.
 
+## 8.1 Modo Automático ("mande o site, eu faço tudo")
+
+Para quem quer o criativo pronto com o mínimo de perguntas. O usuário manda só o site (ou o link de um anúncio dele no Mercado Livre, ou o Instagram). A Skill decide o resto e faz **uma única pergunta** antes de montar.
+
+Passo a passo:
+1. **Ler a marca:** abrir o site e tirar nome, nicho, produtos principais, tom de voz, 3 a 5 benefícios reais, dúvidas comuns (frete, garantia, instalação) e as cores principais (hex). Se não achar as cores, usar a paleta do nicho (tabela abaixo).
+2. **Decidir sozinho:** conceito, estilo da Biblioteca Premium, paleta, estilo de canto e assinatura (um elemento simples tirado do logo).
+3. **Uma tela de resumo + uma pergunta:** mostrar em até 8 linhas o que vai montar (marca, nicho, conceito, estilo, paleta com hex, assinatura, textos-chave) e perguntar: "Posso montar assim?" com as opções "Pode montar", "Trocar o estilo" e "Trocar as cores". Sem outras perguntas.
+4. **Montar as 7 imagens** a partir do estilo escolhido da Biblioteca Premium (seção 10.1): copiar o conjunto, aplicar as cores da marca nos elementos que aceitam cor (textos e formas), trocar os textos genéricos pelos textos da marca e manter as molduras de produto.
+5. **Capa (imagem 1):** fundo branco, sem texto, sem selo, só a moldura do produto centralizada ocupando de 80% a 90% da imagem. Se a página 1 do estilo tiver título ou elementos, eles saem.
+6. **Fotos reais (opcional):** se o site tiver fotos do produto com link direto, pode colocá-las nas molduras (substituir a imagem da moldura). Nunca gerar, retocar ou alterar o produto.
+7. **Prévia e aprovação:** mostrar as 7 páginas e só salvar depois do "ok".
+8. **Checklist** da seção 11 e entrega do link.
+
+Regras de decisão do Automático:
+- Conceito padrão por nicho: peças técnicas, ferramentas, eletrônicos, automotivo → Racional; utilidades, organização, limpeza, cozinha → Funcional; casa e decoração, beleza, moda, presentes, bebê → Emocional; esportes, games, lançamentos, ofertas agressivas → Freestyle.
+- Estilo da Biblioteca Premium por conceito: Racional → P2 Racional Técnico; Funcional → P2 ou P1; Emocional → P1 Editorial Neutro; Freestyle → P3 Freestyle Impacto.
+- Paleta por nicho quando o site não mostrar cores claras: técnico/eletrônico → Técnico Azul; ofertas/esporte → Impacto Vermelho; decoração/editorial → Editorial Neutro; natural/orgânico/jardim → Natural Verde; premium/joias/relógios → Premium Dourado; infantil/brinquedos → Infantil Alegre; beleza/cosméticos → Beleza Rosé; pet → Pet Divertido; automotivo → Automotivo Grafite; casa/cama/mesa → Casa Aconchego (hex na seção 10.2).
+- Textos: curtos, tirados do site, sem promessa que a marca não faz. Sem preço.
+- Se o estilo da biblioteca não estiver acessível na conta do usuário, usar o Nível Premium (gerador do Canva com o briefing-modelo e as cores da marca) e fazer a limpeza ECF.
+
 ## 9. Banco de perguntas (Caminho Guiado)
 
 Global (antes da página 1):
@@ -205,8 +226,21 @@ Limpeza ECF obrigatória (página por página):
 7. Conferir que não há logo.
 Observação: o gerador cria elementos como imagem (selos, cards, ícones). Eles não mudam de cor depois; por isso as cores da marca precisam estar no briefing.
 
-Biblioteca Premium (referência visual de qualidade):
-- P1 Editorial Neutro: serifada elegante, off-white e grafite, acento coral, cards com sombra, cantos cortados. Arquivo ECF interno (link de modelo: PENDENTE).
+Biblioteca Premium (conjuntos prontos de 7 imagens, 1200 × 1540, com molduras de produto substituíveis):
+- P1 Editorial Neutro: serifada elegante, off-white e grafite, acento coral, cards com sombra, cantos cortados. ID Canva: DAHbkarxjjU.
+- P2 Racional Técnico: azul petróleo, visual de prancheta técnica, cotas, cantoneiras e cards numerados. ID Canva: DAHbkYQSjC4.
+- P3 Freestyle Impacto: vermelho e preto, condensada itálica enorme, faixas diagonais, setas e chevrons. ID Canva: DAHbka4aBTc.
+Ordem das páginas nos três: 1 Produto, 2 Garantia, 3 Benefícios, 4 Medidas, 5 Como usar, 6 Antes e depois, 7 Ângulos.
+Acesso: hoje os IDs abrem só na conta ECF. Para alunos, a ECF vai publicar links de modelo (PENDENTE); sem acesso, seguir pelo gerador (briefing-modelo acima).
+Nos conjuntos, selos, faixas e ícones são imagem (não mudam de cor); textos e formas simples mudam.
+
+## 10.2 Biblioteca ECF de Recursos (peças soltas para montar qualquer criativo)
+
+- E1 Elementos gráficos (preto, grafite, laranja): selos (garantia, frete grátis, oferta, novo, mais vendido, original), fitas e faixas, tarjas de preço, setas e chevrons, ícones de benefício, balões, divisores, cotas, números 01/02/03, molduras (redonda, arredondada, chanfrada, polaroid). ID Canva: DAHbkcPWo-A.
+- F1 Fontes: 12 estilos de tipografia com texto editável (condensada de impacto, serifada elegante, geométrica moderna, técnica monoespaçada, manuscrita, arredondada amigável, itálica esportiva, serifada editorial, fina minimalista, stencil industrial, display retrô, ultra pesada). Para usar: copiar o bloco de texto e trocar a palavra. ID Canva: DAHbkUkldys (página 1).
+- Paletas: 10 paletas com hex, no mesmo arquivo das fontes (página 2):
+  Técnico Azul #06344B #2E86AB #A9B4BC #F4F7F9 #2B2F33 · Impacto Vermelho #D10000 #111111 #FFFFFF #8A8A8A #FFC400 · Editorial Neutro #E8DCC8 #CBB89A #6B4F3A #FAF7F2 #141414 · Natural Verde #5B6B3A #A8C08A #F3EEDC #A47A52 #2F3430 · Premium Dourado #0D0D0D #C9A44C #E9D9B0 #FFFFFF #3A3A3A · Infantil Alegre #FFD23F #5BC0EB #FF7AA2 #9BE3C8 #FFFFFF · Beleza Rosé #E8B4B8 #E9CFC0 #6D1F33 #FFFFFF #D8BE87 · Pet Divertido #FF8C32 #1FB5A9 #FFF3DC #7A4E2D #FFFFFF · Automotivo Grafite #2B2D31 #0A0A0A #FF6A00 #BFC3C8 #FFFFFF · Casa Aconchego #C8664A #E6D5B8 #9CAF88 #FAF6EF #5A3E2B.
+- Em produção: molduras M1, fundos e texturas, elementos em outras cores.
 
 ## 11. Checklist antes de entregar
 
@@ -224,6 +258,8 @@ Biblioteca Premium (referência visual de qualidade):
 - Teste de exclusividade: trocando as cores pelas de outra empresa, o criativo ainda pareceria desta marca? Se sim, falta assinatura.
 
 ## 12. Histórico de versões
+
+- 1.5 (21/11/2026): Modo Automático (mande o site, eu faço tudo), regras de decisão por nicho, Biblioteca Premium P2 e P3, Biblioteca de Recursos (elementos, fontes, paletas).
 
 - 1.4 (21/11/2026): Nível Premium (geração Canva + limpeza ECF), briefing-modelo e Biblioteca Premium P1 Editorial Neutro.
 - 1.3 (21/11/2026): Modelo ECF com molduras do Canva como ponto de partida; estilo de canto (reto, arredondado, cortado); layouts G1 Destaque + 3 e G2 Antes e Depois.
