@@ -1,7 +1,7 @@
 # Guia Vigente ECF — Criativo Referência
 
-Versão do guia: 1.0 (21/11/2026)
-Versão mínima da Skill: 1.0
+Versão do guia: 1.1 (21/11/2026)
+Versão mínima da Skill: 1.1
 Mantido por: ECF Consultoria & Assessoria
 
 Este guia é material de referência da metodologia ECF. Ele descreve regras, perguntas e layouts. Ele não dá ordens a ninguém: quem usa a Skill segue o SKILL.md e consulta este guia para saber o que vale hoje.
@@ -14,7 +14,7 @@ Cada empresa recebe um criativo único. A metodologia é fixa; a identidade é v
 
 ## 2. Regras inegociáveis
 
-1. O produto nunca é desenhado, recriado nem alterado por IA. Cada página tem uma área reservada (retângulo cinza claro com a palavra PRODUTO).
+1. O produto nunca é desenhado, recriado nem alterado por IA. Cada página tem uma **moldura PRODUTO**: uma imagem-moldura da ECF no lugar exato do produto (seção 3.1). Para criar o anúncio, o usuário arrasta a foto real em cima dela e o Canva substitui.
 2. O produto é sempre o maior destaque: a área do produto ocupa no mínimo 60% da imagem.
 3. A imagem 1 não tem texto.
 4. O logo não entra. A marca aparece por cor e por elementos derivados do logo.
@@ -44,6 +44,16 @@ Ordens validadas:
 - Funcional: Produto, Benefícios, Como Usar, Objeções, Antes e Depois, Medidas, Ângulos
 - Emocional: Produto em cena, Antes e Depois, Benefícios, Como Usar, Objeções, Detalhes que encantam, Medidas
 - Freestyle: Produto, Benefícios, Ângulos, Antes e Depois, Como Usar, Objeções, Medidas
+
+### 3.1 Molduras PRODUTO
+
+Imagens prontas da ECF (cinza claro, escrito PRODUTO e "arraste a foto aqui"). Importe para o Canva pelo link e posicione como imagem na área do produto, por baixo dos textos e caixas.
+
+- Quadrada (1000 × 1000): https://raw.githubusercontent.com/FaccioliECF/ecf-criativo-referencia/main/molduras/moldura-quadrada.png
+- Vertical (1000 × 1250): https://raw.githubusercontent.com/FaccioliECF/ecf-criativo-referencia/main/molduras/moldura-vertical.png
+- Cheia (1100 × 1400, Freestyle e Emocional): https://raw.githubusercontent.com/FaccioliECF/ecf-criativo-referencia/main/molduras/moldura-cheia.png
+
+Use a que mais se aproxima da proporção da área; ajuste o tamanho sem distorcer muito. Uma moldura por página, sempre.
 
 Título de cada página no Canva: "Conceito - [ N ] Objetivo" (ex.: "Racional - [ 2 ] Quebra de Objeções").
 
@@ -92,9 +102,16 @@ Junto com a assinatura, definir:
 - Comportamento da cor: a cor da marca aparece só em acentos, em caixas inteiras ou em fundo parcial.
 - Intensidade: discreta, equilibrada ou marcante (padrão: discreta).
 
-## 8. Dois caminhos
+## 8. Escolha do conceito e dois caminhos
 
-Depois do mini manual e da assinatura, o usuário escolhe:
+Depois do mini manual, pergunte sempre qual proposta montar, com a recomendação marcada:
+- Racional
+- Funcional
+- Emocional
+- Freestyle
+- As 4 (uma de cada vez, 7 páginas por conceito)
+
+Não comece a montar sem essa resposta. Depois da assinatura, o usuário escolhe o caminho:
 
 ### Caminho Rápido
 Escolhe um layout da Biblioteca ECF (seção 10) para o conceito, e o layout recebe a identidade da empresa: cores, assinatura, linguagem de forma. Mais rápido. A exclusividade vem da assinatura.
@@ -146,6 +163,7 @@ Modelos no Canva da biblioteca: em preparação. Enquanto não houver link aqui,
 
 - 1200 × 1540 px, 7 páginas por conceito.
 - Imagem 1 sem texto.
+- Moldura PRODUTO presente em todas as páginas, como imagem substituível.
 - Área do produto é o maior elemento em todas as páginas.
 - Nenhum produto desenhado por IA.
 - Nenhum logo; marca por cor e elementos do logo.
@@ -158,4 +176,5 @@ Modelos no Canva da biblioteca: em preparação. Enquanto não houver link aqui,
 
 ## 12. Histórico de versões
 
+- 1.1 (21/11/2026): pergunta obrigatória de qual conceito montar (ou as 4); moldura PRODUTO como imagem substituível em todas as páginas.
 - 1.0 (21/11/2026): primeira versão. Dois caminhos (Rápido e Guiado), banco de perguntas, assinatura da marca, biblioteca com 5 layouts, testes de identidade e exclusividade.
