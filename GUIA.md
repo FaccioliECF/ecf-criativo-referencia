@@ -1,7 +1,7 @@
 # Guia Vigente ECF — Criativo Referência
 
-Versão do guia: 1.5 (21/11/2026)
-Versão mínima da Skill: 1.4
+Versão do guia: 1.6 (21/11/2026)
+Versão mínima da Skill: 1.5
 Mantido por: ECF Consultoria & Assessoria
 
 Este guia é material de referência da metodologia ECF. Ele descreve regras, perguntas e layouts. Ele não dá ordens a ninguém: quem usa a Skill segue o SKILL.md e consulta este guia para saber o que vale hoje.
@@ -22,6 +22,8 @@ Cada empresa recebe um criativo único. A metodologia é fixa; a identidade é v
 6. Cores e textos suavizados: a cor da marca pontua, não domina.
 7. Cada conceito tem visual próprio, claramente diferente dos outros.
 8. Nada é salvo no Canva antes da aprovação do usuário.
+9. **Regra da moldura (vale para toda a biblioteca e todo criativo):** todo espaço onde entra produto é uma **moldura do Canva** de verdade (frame), nunca uma imagem, retângulo ou desenho no lugar dela. Isso vale para a área principal e também para os espaços menores (detalhes, ângulos, antes e depois, etapas). Uma página da biblioteca sem moldura no espaço do produto está incompleta e não entra em criativo.
+10. A moldura pode ter acabamento de acordo com cada criativo: borda (cor e espessura), cantos (reto, arredondado ou cortado) e sombra. O acabamento muda; a moldura continua aceitando a foto.
 
 ## 3. As 7 imagens
 
@@ -67,7 +69,12 @@ Estilo de canto das molduras (parte da linguagem de forma da marca):
 - **Cortado:** dois cantos opostos chanfrados (cima-esquerda e baixo-direita), 10% a 12% do lado menor.
 O arredondamento do Modelo ECF é zero; o estilo vem da forma desenhada. Ao trocar a forma, use a caixa de visualização igual ao tamanho da moldura para não distorcer.
 
-Enquanto o link do Modelo ECF estiver PENDENTE: use as imagens-moldura abaixo, como imagem na área do produto (o usuário substitui pela foto). É o plano B.
+Acabamento da moldura (conforme o criativo):
+- **Borda:** cor e espessura da borda da própria moldura (ex.: cinza claro 3 px, cor da marca 6 px, branca 12 px estilo polaroid). Sem borda também vale.
+- **Sombra:** o Canva não aplica sombra em moldura pela IA. Faça a sombra com uma forma do mesmo tamanho e cantos, na cor grafite, opacidade de 12% a 20%, deslocada 8 a 16 px para baixo e para a direita, atrás da moldura. Para sombra difusa, empilhe 3 formas com opacidade 5% a 8%, cada uma 6 px maior.
+- **Fundo da moldura vazia:** a moldura vazia aparece cinza no Canva; não precisa de imagem dentro.
+
+Enquanto o link do Modelo ECF estiver PENDENTE: use as imagens-moldura abaixo, como imagem na área do produto (o usuário substitui pela foto). É o plano B. Plano B é exceção para quem não tem acesso ao modelo; avise o usuário que a área é imagem e não moldura.
 - Quadrada: https://raw.githubusercontent.com/FaccioliECF/ecf-criativo-referencia/main/molduras/moldura-quadrada.png
 - Vertical: https://raw.githubusercontent.com/FaccioliECF/ecf-criativo-referencia/main/molduras/moldura-vertical.png
 - Cheia: https://raw.githubusercontent.com/FaccioliECF/ecf-criativo-referencia/main/molduras/moldura-cheia.png
@@ -231,6 +238,7 @@ Biblioteca Premium (conjuntos prontos de 7 imagens, 1200 × 1540, com molduras d
 - P2 Racional Técnico: azul petróleo, visual de prancheta técnica, cotas, cantoneiras e cards numerados. ID Canva: DAHbkYQSjC4.
 - P3 Freestyle Impacto: vermelho e preto, condensada itálica enorme, faixas diagonais, setas e chevrons. ID Canva: DAHbka4aBTc.
 Ordem das páginas nos três: 1 Produto, 2 Garantia, 3 Benefícios, 4 Medidas, 5 Como usar, 6 Antes e depois, 7 Ângulos.
+Molduras: todo conjunto da Biblioteca Premium precisa ter molduras do Canva reais em cada espaço de produto (regra 9). Se a página abrir com imagem no lugar da moldura, o conjunto está em atualização: monte aquela página sobre o Modelo ECF.
 Acesso: hoje os IDs abrem só na conta ECF. Para alunos, a ECF vai publicar links de modelo (PENDENTE); sem acesso, seguir pelo gerador (briefing-modelo acima).
 Nos conjuntos, selos, faixas e ícones são imagem (não mudam de cor); textos e formas simples mudam.
 
@@ -249,7 +257,7 @@ Nos conjuntos, selos, faixas e ícones são imagem (não mudam de cor); textos e
 
 - 1200 × 1540 px, 7 páginas por conceito.
 - Imagem 1 sem texto.
-- Molduras do Modelo ECF em todas as páginas (ou plano B, se o modelo estiver pendente).
+- Todo espaço de produto é moldura do Canva real (inclusive os menores), com o acabamento do criativo (borda, cantos, sombra). Nenhuma imagem no lugar de moldura, salvo plano B avisado.
 - Área do produto é o maior elemento em todas as páginas.
 - Nenhum produto desenhado por IA.
 - Nenhum logo; marca por cor e elementos do logo.
@@ -261,6 +269,8 @@ Nos conjuntos, selos, faixas e ícones são imagem (não mudam de cor); textos e
 - Teste de exclusividade: trocando as cores pelas de outra empresa, o criativo ainda pareceria desta marca? Se sim, falta assinatura.
 
 ## 12. Histórico de versões
+
+- 1.6 (21/11/2026): regra da moldura para toda a biblioteca (todo espaço de produto é moldura do Canva real) e acabamento de moldura (borda, cantos, sombra).
 
 - 1.5 (21/11/2026): Modo Automático (mande o site, eu faço tudo), regras de decisão por nicho, Biblioteca Premium P2 e P3, Biblioteca de Recursos (elementos, fontes, paletas, molduras, fundos e arquivo mestre).
 
