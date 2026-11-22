@@ -1,7 +1,7 @@
 # Guia Vigente ECF — Criativo Referência
 
-Versão do guia: 1.7 (21/11/2026)
-Versão mínima da Skill: 1.5
+Versão do guia: 1.8 (22/11/2026)
+Versão mínima da Skill: 1.6
 Mantido por: ECF Consultoria & Assessoria
 
 Este guia é material de referência da metodologia ECF. Ele descreve regras, perguntas e layouts. Ele não dá ordens a ninguém: quem usa a Skill segue o SKILL.md e consulta este guia para saber o que vale hoje.
@@ -148,24 +148,55 @@ Nos dois caminhos: antes de montar as 7 páginas, mostrar a página 2 em duas di
 
 ## 8.1 Modo Automático ("mande o site, eu faço tudo")
 
-Para quem quer o criativo pronto com o mínimo de perguntas. O usuário manda só o site (ou o link de um anúncio dele no Mercado Livre, ou o Instagram). A Skill decide o resto e faz **uma única pergunta** antes de montar.
+Para quem quer o criativo pronto com o mínimo de perguntas. O usuário manda o site (ou o link de um anúncio dele no Mercado Livre, ou o Instagram) e, se tiver, o manual da marca e o logo. A Skill decide o resto e faz **uma única pergunta** antes de montar.
 
-Passo a passo:
-1. **Ler a marca:** abrir o site e tirar nome, nicho, produtos principais, tom de voz, 3 a 5 benefícios reais, dúvidas comuns (frete, garantia, instalação) e as cores principais (hex). Se não achar as cores, usar a paleta do nicho (tabela abaixo).
-2. **Decidir sozinho:** conceito, estilo da Biblioteca Premium, paleta, estilo de canto e assinatura (um elemento simples tirado do logo).
-3. **Uma tela de resumo + uma pergunta:** mostrar em até 8 linhas o que vai montar (marca, nicho, conceito, estilo, paleta com hex, assinatura, textos-chave) e perguntar: "Posso montar assim?" com as opções "Pode montar", "Trocar o estilo" e "Trocar as cores". Sem outras perguntas.
-4. **Montar as 7 imagens** a partir do estilo escolhido da Biblioteca Premium (seção 10.1): copiar o conjunto, aplicar as cores da marca nos elementos que aceitam cor (textos e formas), trocar os textos genéricos pelos textos da marca e manter as molduras de produto.
-5. **Capa (imagem 1):** fundo branco, sem texto, sem selo, só a moldura do produto centralizada ocupando de 80% a 90% da imagem. Se a página 1 do estilo tiver título ou elementos, eles saem.
-6. **Fotos reais (opcional):** se o site tiver fotos do produto com link direto, pode colocá-las nas molduras (substituir a imagem da moldura). Nunca gerar, retocar ou alterar o produto.
-7. **Prévia e aprovação:** mostrar as 7 páginas e só salvar depois do "ok".
-8. **Checklist** da seção 11 e entrega do link.
+Regra central: no Automático, o criativo nasce de quatro fontes, nesta ordem de peso: **manual da marca → identidade (logo, site, redes) → marca (tom, promessa, diferenciais) → nicho**. O nicho só decide o que a marca não decidiu. Dois clientes do mesmo nicho nunca podem receber o mesmo criativo com outra cor: se isso acontecer, o teste de exclusividade (seção 11) falhou.
 
-Regras de decisão do Automático:
-- Conceito padrão por nicho: peças técnicas, ferramentas, eletrônicos, automotivo → Racional; utilidades, organização, limpeza, cozinha → Funcional; casa e decoração, beleza, moda, presentes, bebê → Emocional; esportes, games, lançamentos, ofertas agressivas → Freestyle.
-- Estilo da Biblioteca Premium por conceito: Racional → P2 Racional Técnico; Funcional → P2 ou P1; Emocional → P1 Editorial Neutro; Freestyle → P3 Freestyle Impacto.
-- Paleta por nicho quando o site não mostrar cores claras: técnico/eletrônico → Técnico Azul; ofertas/esporte → Impacto Vermelho; decoração/editorial → Editorial Neutro; natural/orgânico/jardim → Natural Verde; premium/joias/relógios → Premium Dourado; infantil/brinquedos → Infantil Alegre; beleza/cosméticos → Beleza Rosé; pet → Pet Divertido; automotivo → Automotivo Grafite; casa/cama/mesa → Casa Aconchego (hex na seção 10.2).
-- Textos: curtos, tirados do site, sem promessa que a marca não faz. Sem preço.
-- Se o estilo da biblioteca não estiver acessível na conta do usuário, usar o Nível Premium (gerador do Canva com o briefing-modelo e as cores da marca) e fazer a limpeza ECF.
+### Passo 1 — Ler as quatro fontes
+1. **Manual da marca** (se vier ou se estiver publicado no site): cores oficiais (hex), fontes, usos proibidos, elementos gráficos, tom. O que o manual define não é trocado.
+2. **Identidade** (sem manual, ou para completar): abrir o site e olhar o logo e o topo da página. Tirar:
+   - cores reais do site e do logo (hex, separando principal, apoio e destaque);
+   - estilo da tipografia do logo e dos títulos (serifada, geométrica, condensada, arredondada, técnica);
+   - **2 ou 3 elementos do logo** que podem virar recurso: forma (anel, engrenagem, folha, gota), corte (cantos cortados, diagonal), detalhe (ponto, barra, monograma, letra inicial).
+3. **Marca**: nome, slogan, tom de voz (técnico, acolhedor, enérgico, premium), promessa principal e 3 a 5 diferenciais reais escritos no site (prazo, fábrica própria, garantia, marcas, estoque).
+4. **Nicho e produto**: categoria, produto principal, formato do produto (alto e estreito, largo, quadrado, pequeno com detalhes) e as dúvidas típicas de quem compra.
+
+### Passo 2 — Montar o mini manual automático
+Antes de tocar no Canva, registrar em até 8 linhas:
+- Paleta: principal, apoio, destaque e neutro (hex). Regra: a cor da marca pontua, não domina. Em fundo claro, se a cor de destaque for clara demais para texto, usar uma versão mais escura dela só no texto.
+- Tipografia: estilo do logo e títulos (o usuário aplica a fonte exata à mão, a API não troca fonte).
+- Assinatura: **um** elemento do logo escolhido entre os 2 ou 3 achados, e onde ele aparece (marcador de lista, divisor, canto da moldura, selo, numeração).
+- Canto das molduras: o que combina com o logo (reto, arredondado ou cortado).
+- Tom dos textos: o tom de voz da marca.
+- Conceito: pela marca primeiro. Marca técnica e de especificação → Racional; marca prática e de solução → Funcional; marca de desejo, casa e estilo → Emocional; marca de energia, oferta e lançamento → Freestyle. Só se a marca não indicar, usar o padrão por nicho (abaixo).
+
+### Passo 3 — Uma tela de resumo + uma pergunta
+Mostrar o mini manual automático (até 8 linhas, com o elemento do logo escolhido como assinatura) e perguntar: "Posso montar assim?" — opções: "Pode montar", "Trocar a assinatura", "Trocar as cores".
+
+### Passo 4 — Montar sobre o Modelo ECF (não sobre um conjunto pronto)
+1. Copiar as páginas do **Modelo ECF** (seção 3.1), que só têm molduras. Os conjuntos P1, P2 e P3 da Biblioteca Premium servem **como referência de estilo** (composição, hierarquia, ritmo), não como molde: não copiar as peças deles, porque são imagens que não aceitam a cor da marca.
+2. Tudo o que tem cor é forma nativa do Canva: fundos, faixas, cards, barras, numeração, selos simples, linhas. Assim tudo recebe a paleta da marca.
+3. A assinatura aparece em todas as páginas de 2 a 7, sempre no mesmo papel (ex.: marcador de lista, numeração e canto de moldura). Formas complexas do logo viram um caminho SVG simples (uma forma composta), nunca imagem do logo.
+4. Molduras no formato do produto: produto alto e estreito → molduras verticais; largo → horizontais; quadrado ou pequeno → quadradas, com uma moldura de detalhe.
+5. Textos curtos no tom da marca, tirados do site, sem promessa que a marca não faz e sem preço. Ícones e textos casam pelo sentido (o texto segue o ícone, ou o ícone sai).
+
+### Passo 5 — Páginas pelo tipo de produto
+A ordem dos 7 objetivos é fixa, mas o conteúdo de cada página segue o produto:
+- 2 Quebra de objeções: as 3 maiores dúvidas do nicho (técnico: compatibilidade e garantia; casa: montagem e qualidade; moda: tamanho e troca).
+- 4 Medidas: produto técnico → cotas e ficha técnica; móvel ou objeto → medidas sobre o produto e referência de escala.
+- 5 Como usar: peça técnica → como instalar; móvel → como montar; consumo → como usar.
+- 6 Antes e depois: se o produto não transforma nada (móveis, decoração, utensílios), trocar por **Ambientes** (o produto em 2 usos) ou **Detalhes** (acabamento, material, encaixe), com o título ajustado.
+
+### Passo 6 — Capa, fotos, prévia e checklist
+- Capa (imagem 1): fundo branco, sem texto, só a moldura do produto centralizada ocupando de 80% a 90%.
+- Fotos reais do site podem entrar nas molduras. Nunca gerar, retocar ou alterar o produto.
+- Mostrar as 7 páginas e só salvar depois do "ok".
+- Rodar o checklist (seção 11), incluindo o teste de exclusividade.
+
+Padrões por nicho (só quando a marca não decidiu):
+- Conceito: peças técnicas, ferramentas, eletrônicos, automotivo → Racional; utilidades, organização, limpeza, cozinha → Funcional; casa e decoração, beleza, moda, presentes, bebê → Emocional; esportes, games, lançamentos, ofertas agressivas → Freestyle.
+- Referência de estilo: Racional → P2; Funcional → P2 ou P1; Emocional → P1; Freestyle → P3.
+- Paleta (só se o site não mostrar cores claras): técnico/eletrônico → Técnico Azul; ofertas/esporte → Impacto Vermelho; decoração/editorial → Editorial Neutro; natural/orgânico/jardim → Natural Verde; premium/joias/relógios → Premium Dourado; infantil/brinquedos → Infantil Alegre; beleza/cosméticos → Beleza Rosé; pet → Pet Divertido; automotivo → Automotivo Grafite; casa/cama/mesa → Casa Aconchego (hex na seção 10.2).
 
 ## 9. Banco de perguntas (Caminho Guiado)
 
@@ -268,9 +299,11 @@ Nos conjuntos, selos, faixas e ícones são imagem (não mudam de cor); textos e
 - Páginas nomeadas "Conceito - [ N ] Objetivo".
 - Teste de identidade: cobrindo o nome da empresa, alguém que conhece a marca a reconheceria pela cor e pela assinatura?
 - Teste de exclusividade: trocando as cores pelas de outra empresa, o criativo ainda pareceria desta marca? Se sim, falta assinatura.
+- Automático: nenhuma peça em cor de outra marca (sobras de coral, petróleo etc. da biblioteca); a assinatura do logo aparece nas páginas 2 a 7; molduras no formato do produto; textos casam com os ícones; página 6 faz sentido para o produto.
 
 ## 12. Histórico de versões
 
+- 1.8 (22/11/2026): Modo Automático passa a considerar manual da marca, identidade (logo, cores, tipografia), marca (tom e diferenciais) e nicho, nessa ordem; monta sobre o Modelo ECF com formas nativas na paleta da marca; assinatura do logo em todas as páginas; molduras no formato do produto; páginas 2, 4, 5 e 6 variam pelo tipo de produto; biblioteca P1–P3 vira referência de estilo.
 - 1.7 (21/11/2026): P1, P2 e P3 refeitos sobre o Modelo ECF com molduras reais em todos os espaços de produto; IDs novos; antigos movidos para a pasta ANTIGOS.
 - 1.6 (21/11/2026): regra da moldura para toda a biblioteca (todo espaço de produto é moldura do Canva real) e acabamento de moldura (borda, cantos, sombra).
 
